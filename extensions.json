@@ -90,5 +90,9 @@
 	{
 		"packageId": "CharStats",
 		"category": "Utilities"
-	}
+	},
+	{
+  		"packageId": "WeatherExtension",
+  		"category": "Utilities"
+}
 ]
